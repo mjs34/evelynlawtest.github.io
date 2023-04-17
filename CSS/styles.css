@@ -254,7 +254,7 @@ body {
       display: flex;
       justify-content: flex-start;
       align-items: top;
-      outline: 1px solid red;
+      /* outline: 1px solid red; */
     }
 
     .hero-content {
